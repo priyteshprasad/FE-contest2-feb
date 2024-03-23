@@ -1,0 +1,17 @@
+.container{
+    background-color: black;
+    width: 100vw;
+    color: white;
+    padding: 5px;
+}
+li{
+    color: blue;
+    cursor: pointer;
+    width: max-content;
+}
+#current-image-container{
+    width: 100%;
+}
+img{
+    width: 100%;
+}
